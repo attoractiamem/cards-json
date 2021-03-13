@@ -1,4 +1,4 @@
-{ "fow": 
+cards={ "fow": 
 	{ "clusters": [
 		{ "name": "Valhalla", "sets": [
 			{ "name": "Starter", "code": "S", "cards": [
